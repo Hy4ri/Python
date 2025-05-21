@@ -1,0 +1,10 @@
+What is the capital of France?|Paris
+What is the largest planet in our solar system?|Jupiter
+Who wrote '1984'?|George Orwell
+What is the square root of 64?|8
+What is the chemical symbol for gold?|Au
+Who painted the Mona Lisa?|Leonardo da Vinci
+What is the fastest land animal?|Cheetah
+What programming language is known for its snake logo?|Python
+How many continents are there on Earth?|7
+What is the boiling point of water in Celsius?|100
